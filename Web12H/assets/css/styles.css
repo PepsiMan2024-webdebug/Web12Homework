@@ -1,0 +1,11 @@
+nav {
+    background:linear-gradient(to right,#FFEAF3,#CAC6FD,#D4FFD6);
+}
+
+.main-heading {
+
+}
+.btn-close {
+    display: flex;
+    align-items: flex-end;
+}
